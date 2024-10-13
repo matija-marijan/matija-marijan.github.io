@@ -2,10 +2,8 @@
 layout: default
 title: Homepage
 ---
-
-[Home](./index.md) | [About](./about.md)
-
 <div style="text-align: center;">
+    [Home](./index.md) | [About](./about.md)
     <h1> Hello, I'm Matija Marijan.</h1>
     <p>Welcome to my personal website.</p>
 </div>
