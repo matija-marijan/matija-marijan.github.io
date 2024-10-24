@@ -2,3 +2,29 @@
 ---
 
 @import "{{ site.theme }}";
+
+a {
+    text-decoration: none; /* Removes underline */
+    color: #007acc; /* Changes the text color to a custom blue */
+}
+  
+a:hover {
+    text-decoration: underline; /* Add underline when hovering */
+}
+
+nav a {
+    color: #007acc; /* Custom blue color */
+    padding: 10px 15px; /* Add space around the links */
+    text-decoration: none; /* Remove the default underline */
+    border-radius: 5px; /* Optional: make the corners rounded */
+}
+  
+nav a:hover {
+    background-color: #e0e0e0; /* Change background on hover */
+    text-decoration: none; /* Keep it without underline on hover */
+}
+  
+nav {
+    text-align: center; /* Center-align the nav links */
+    margin: 20px 0; /* Space above and below the links */
+}
