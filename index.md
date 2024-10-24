@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: Home
 ---
 
 [Home](./index.md) | [About](./about.md)
