@@ -4,7 +4,7 @@ title: Home
 ---
 
 <nav>
-  [Home](./index.md) | [About](./about.md)
+  <a href="/">Home</a> | <a href="/about.html">About</a>
 </nav>
 
 <div style="text-align: center;">
